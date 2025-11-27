@@ -486,7 +486,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UhN6FZU1BXnNsWTGOnUX" name="DCDC_blockdiagram">
-    <mxGraphModel dx="786" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -498,7 +498,7 @@
         </mxCell>
         <mxCell id="hnEFje0ckADH0nD2NiO8-3" connectable="0" parent="hnEFje0ckADH0nD2NiO8-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="output current" vertex="1">
           <mxGeometry relative="1" x="0.4" y="-1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hnEFje0ckADH0nD2NiO8-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="IO" vertex="1">
@@ -512,7 +512,62 @@
         </mxCell>
         <mxCell id="hnEFje0ckADH0nD2NiO8-5" connectable="0" parent="hnEFje0ckADH0nD2NiO8-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="output voltage" vertex="1">
           <mxGeometry relative="1" x="0.4" y="-1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_-18zhcRTZKpRCc4LOha-1" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;strokeColor=default;endArrow=none;endFill=0;startArrow=classic;startFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400.0000000000002" y="160" as="sourcePoint" />
+            <mxPoint x="400" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_-18zhcRTZKpRCc4LOha-2" connectable="0" parent="_-18zhcRTZKpRCc4LOha-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Input Voltage" vertex="1">
+          <mxGeometry relative="1" x="0.4" y="-1" as="geometry">
+            <mxPoint y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_-18zhcRTZKpRCc4LOha-3" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;strokeColor=default;endArrow=none;endFill=0;startArrow=classic;startFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480.0000000000002" y="160" as="sourcePoint" />
+            <mxPoint x="480" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_-18zhcRTZKpRCc4LOha-4" connectable="0" parent="_-18zhcRTZKpRCc4LOha-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="temperature" vertex="1">
+          <mxGeometry relative="1" x="0.4" y="-1" as="geometry">
+            <mxPoint y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_-18zhcRTZKpRCc4LOha-5" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;strokeColor=default;endArrow=none;endFill=0;startArrow=classic;startFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560.0000000000002" y="160" as="sourcePoint" />
+            <mxPoint x="560" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_-18zhcRTZKpRCc4LOha-6" connectable="0" parent="_-18zhcRTZKpRCc4LOha-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="CAN IN" vertex="1">
+          <mxGeometry relative="1" x="0.4" y="-1" as="geometry">
+            <mxPoint y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_-18zhcRTZKpRCc4LOha-7" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;strokeColor=default;endArrow=classic;endFill=1;startArrow=none;startFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640.0000000000002" y="160" as="sourcePoint" />
+            <mxPoint x="640" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_-18zhcRTZKpRCc4LOha-8" connectable="0" parent="_-18zhcRTZKpRCc4LOha-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="CAN OUT" vertex="1">
+          <mxGeometry relative="1" x="0.4" y="-1" as="geometry">
+            <mxPoint y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_-18zhcRTZKpRCc4LOha-9" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;strokeColor=default;endArrow=classic;endFill=1;startArrow=none;startFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720.0000000000002" y="160" as="sourcePoint" />
+            <mxPoint x="720" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_-18zhcRTZKpRCc4LOha-10" connectable="0" parent="_-18zhcRTZKpRCc4LOha-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="PWM" vertex="1">
+          <mxGeometry relative="1" x="0.4" y="-1" as="geometry">
+            <mxPoint y="16" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
