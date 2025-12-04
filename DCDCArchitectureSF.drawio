@@ -529,7 +529,7 @@
         <mxCell id="_-18zhcRTZKpRCc4LOha-3" edge="1" parent="1" source="0R4hRr_ughcd3KdTS0yO-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=default;endArrow=none;endFill=0;startArrow=classic;startFill=1;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520.0000000000002" y="160" as="sourcePoint" />
-            <mxPoint x="520" y="40" as="targetPoint" />
+            <mxPoint x="530" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_-18zhcRTZKpRCc4LOha-4" connectable="0" parent="_-18zhcRTZKpRCc4LOha-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" value="temperature" vertex="1">
@@ -599,8 +599,8 @@
         <mxCell id="0R4hRr_ughcd3KdTS0yO-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ADC Port3" vertex="1">
           <mxGeometry height="40" width="80" x="400" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="0R4hRr_ughcd3KdTS0yO-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ADC Port4" vertex="1">
-          <mxGeometry height="40" width="80" x="480" y="200" as="geometry" />
+        <mxCell id="0R4hRr_ughcd3KdTS0yO-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="GPIO" vertex="1">
+          <mxGeometry height="40" width="60" x="500" y="200" as="geometry" />
         </mxCell>
         <mxCell id="0R4hRr_ughcd3KdTS0yO-4" edge="1" parent="1" source="_-18zhcRTZKpRCc4LOha-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.37;exitY=0;exitDx=0;exitDy=0;strokeColor=default;endArrow=classic;endFill=1;startArrow=none;startFill=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
