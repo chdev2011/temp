@@ -570,7 +570,7 @@
             <mxPoint x="9" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_-18zhcRTZKpRCc4LOha-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#666666);" value="ADC Port1" vertex="1">
+        <mxCell id="_-18zhcRTZKpRCc4LOha-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ADC Port1" vertex="1">
           <mxGeometry height="40" width="80" x="240" y="200" as="geometry" />
         </mxCell>
         <mxCell id="_-18zhcRTZKpRCc4LOha-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CAN" vertex="1">
