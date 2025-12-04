@@ -486,7 +486,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UhN6FZU1BXnNsWTGOnUX" name="DCDC_blockdiagram">
-    <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="475" dy="248" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -540,7 +540,7 @@
         <mxCell id="_-18zhcRTZKpRCc4LOha-5" edge="1" parent="1" source="_-18zhcRTZKpRCc4LOha-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;strokeColor=default;endArrow=none;endFill=0;startArrow=classic;startFill=1;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="579.5" y="200" as="sourcePoint" />
-            <mxPoint x="605" y="40" as="targetPoint" />
+            <mxPoint x="602" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_-18zhcRTZKpRCc4LOha-6" connectable="0" parent="_-18zhcRTZKpRCc4LOha-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" value="CAN IN" vertex="1">
@@ -551,7 +551,7 @@
         <mxCell id="_-18zhcRTZKpRCc4LOha-7" edge="1" parent="1" source="_-18zhcRTZKpRCc4LOha-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;strokeColor=default;endArrow=classic;endFill=1;startArrow=none;startFill=0;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="620.0000000000002" y="160" as="sourcePoint" />
-            <mxPoint x="645" y="40" as="targetPoint" />
+            <mxPoint x="642" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_-18zhcRTZKpRCc4LOha-8" connectable="0" parent="_-18zhcRTZKpRCc4LOha-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" value="CAN OUT" vertex="1">
@@ -574,7 +574,7 @@
           <mxGeometry height="40" width="80" x="240" y="200" as="geometry" />
         </mxCell>
         <mxCell id="_-18zhcRTZKpRCc4LOha-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CAN" vertex="1">
-          <mxGeometry height="40" width="80" x="584.5" y="200" as="geometry" />
+          <mxGeometry height="40" width="80" x="581.5" y="200" as="geometry" />
         </mxCell>
         <mxCell id="_-18zhcRTZKpRCc4LOha-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;points=[[0,0.25,0,0,0],[0,0.5,0,0,0],[0,0.75,0,0,0],[0,1,0,0,0],[0.15,0,0,0,0],[0.25,1,0,0,0],[0.37,0,0,0,0],[0.5,1,0,0,0],[0.58,0,0,0,0],[0.75,1,0,0,0],[0.78,0,0,0,0],[0.88,1,0,0,0],[1,0.25,0,0,0],[1,0.5,0,0,0],[1,0.75,0,0,0],[1,1,0,0,0]];" value="PWM" vertex="1">
           <mxGeometry height="40" width="120" x="680" y="200" as="geometry" />
