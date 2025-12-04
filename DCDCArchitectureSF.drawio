@@ -545,7 +545,7 @@
         </mxCell>
         <mxCell id="_-18zhcRTZKpRCc4LOha-6" connectable="0" parent="_-18zhcRTZKpRCc4LOha-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" value="CAN IN" vertex="1">
           <mxGeometry relative="1" x="0.4" y="-1" as="geometry">
-            <mxPoint x="9" y="16" as="offset" />
+            <mxPoint x="9" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_-18zhcRTZKpRCc4LOha-7" edge="1" parent="1" source="_-18zhcRTZKpRCc4LOha-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;strokeColor=default;endArrow=classic;endFill=1;startArrow=none;startFill=0;">
@@ -556,7 +556,7 @@
         </mxCell>
         <mxCell id="_-18zhcRTZKpRCc4LOha-8" connectable="0" parent="_-18zhcRTZKpRCc4LOha-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" value="CAN OUT" vertex="1">
           <mxGeometry relative="1" x="0.4" y="-1" as="geometry">
-            <mxPoint x="9" y="16" as="offset" />
+            <mxPoint x="9" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_-18zhcRTZKpRCc4LOha-9" edge="1" parent="1" source="_-18zhcRTZKpRCc4LOha-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.15;exitY=0;exitDx=0;exitDy=0;strokeColor=default;endArrow=classic;endFill=1;startArrow=none;startFill=0;exitPerimeter=0;">
@@ -567,7 +567,7 @@
         </mxCell>
         <mxCell id="_-18zhcRTZKpRCc4LOha-10" connectable="0" parent="_-18zhcRTZKpRCc4LOha-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" value="PWM1" vertex="1">
           <mxGeometry relative="1" x="0.4" y="-1" as="geometry">
-            <mxPoint x="9" y="16" as="offset" />
+            <mxPoint x="9" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_-18zhcRTZKpRCc4LOha-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ADC Port1" vertex="1">
@@ -590,7 +590,7 @@
         </mxCell>
         <mxCell id="vMq-DyW-ZVaOjVJ79DP6-3" connectable="0" parent="vMq-DyW-ZVaOjVJ79DP6-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" value="HW Flt" vertex="1">
           <mxGeometry relative="1" x="0.4" y="-1" as="geometry">
-            <mxPoint x="9" y="16" as="offset" />
+            <mxPoint x="9" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0R4hRr_ughcd3KdTS0yO-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ADC Port2" vertex="1">
@@ -610,7 +610,7 @@
         </mxCell>
         <mxCell id="0R4hRr_ughcd3KdTS0yO-5" connectable="0" parent="0R4hRr_ughcd3KdTS0yO-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" value="PWM2" vertex="1">
           <mxGeometry relative="1" x="0.4" y="-1" as="geometry">
-            <mxPoint x="9" y="16" as="offset" />
+            <mxPoint x="9" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0R4hRr_ughcd3KdTS0yO-6" edge="1" parent="1" source="_-18zhcRTZKpRCc4LOha-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.58;exitY=0;exitDx=0;exitDy=0;strokeColor=default;endArrow=classic;endFill=1;startArrow=none;startFill=0;exitPerimeter=0;">
@@ -621,7 +621,7 @@
         </mxCell>
         <mxCell id="0R4hRr_ughcd3KdTS0yO-7" connectable="0" parent="0R4hRr_ughcd3KdTS0yO-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" value="PWM3" vertex="1">
           <mxGeometry relative="1" x="0.4" y="-1" as="geometry">
-            <mxPoint x="9" y="16" as="offset" />
+            <mxPoint x="9" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0R4hRr_ughcd3KdTS0yO-8" edge="1" parent="1" source="_-18zhcRTZKpRCc4LOha-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.78;exitY=0;exitDx=0;exitDy=0;strokeColor=default;endArrow=classic;endFill=1;startArrow=none;startFill=0;exitPerimeter=0;">
@@ -632,7 +632,7 @@
         </mxCell>
         <mxCell id="0R4hRr_ughcd3KdTS0yO-9" connectable="0" parent="0R4hRr_ughcd3KdTS0yO-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" value="PWM4" vertex="1">
           <mxGeometry relative="1" x="0.4" y="-1" as="geometry">
-            <mxPoint x="9" y="16" as="offset" />
+            <mxPoint x="9" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
