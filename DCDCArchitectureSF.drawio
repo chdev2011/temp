@@ -356,7 +356,7 @@
         </mxCell>
         <mxCell id="wJSi6WWBkt4K4urLhMII-16" connectable="0" parent="wJSi6WWBkt4K4urLhMII-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="if HIGH" vertex="1">
           <mxGeometry relative="1" x="-0.2838" as="geometry">
-            <mxPoint x="-14" y="15" as="offset" />
+            <mxPoint x="-76" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wJSi6WWBkt4K4urLhMII-17" edge="1" parent="FXYeFuNl3OhAtjeP8-v4-1" source="wJSi6WWBkt4K4urLhMII-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" target="wJSi6WWBkt4K4urLhMII-11">
@@ -367,7 +367,7 @@
         </mxCell>
         <mxCell id="wJSi6WWBkt4K4urLhMII-20" connectable="0" parent="wJSi6WWBkt4K4urLhMII-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Disable Cmd" vertex="1">
           <mxGeometry relative="1" x="0.3452" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-3" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
