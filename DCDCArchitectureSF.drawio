@@ -376,7 +376,7 @@
             <mxPoint x="436.08" y="1260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k8ICpK5PFYtMmqniyok1-6" parent="FXYeFuNl3OhAtjeP8-v4-1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;1. Reset Fault Flag&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;2. Set SSM_Flt&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="k8ICpK5PFYtMmqniyok1-6" parent="FXYeFuNl3OhAtjeP8-v4-1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Reset Fault Flag&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120.92" x="536.12" y="1100" as="geometry" />
         </mxCell>
         <mxCell id="k8ICpK5PFYtMmqniyok1-8" parent="FXYeFuNl3OhAtjeP8-v4-1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="Main" vertex="1">
@@ -396,7 +396,7 @@
         </mxCell>
         <mxCell id="k8ICpK5PFYtMmqniyok1-13" connectable="0" parent="k8ICpK5PFYtMmqniyok1-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#000000,#FFFFFF);labelBackgroundColor=none;" value="&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;&lt;font style=&quot;&quot;&gt;Set SSM_Flt&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry relative="1" x="0.3321" y="-2" as="geometry">
-            <mxPoint x="-8" y="17" as="offset" />
+            <mxPoint x="-36" y="17" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
