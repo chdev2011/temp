@@ -40,9 +40,9 @@
             <mxPoint x="163.5483870967742" y="223.46041055718473" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nJoT_wRCqXbjGcfrN69v-14" edge="1" parent="nJoT_wRCqXbjGcfrN69v-22" source="nJoT_wRCqXbjGcfrN69v-1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.464;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=22;align=center;fontFamily=Helvetica;" target="nJoT_wRCqXbjGcfrN69v-4" value="">
+        <mxCell id="nJoT_wRCqXbjGcfrN69v-14" edge="1" parent="nJoT_wRCqXbjGcfrN69v-22" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=22;align=center;fontFamily=Helvetica;" target="nJoT_wRCqXbjGcfrN69v-4" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
-            <mxPoint x="326.4677419354838" y="337.0527859237537" as="sourcePoint" />
+            <mxPoint x="327" y="335" as="sourcePoint" />
             <mxPoint x="327.0967741935484" y="204.83870967741936" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -58,15 +58,15 @@
             <mxPoint x="930.9677419354839" y="145.2492668621701" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nJoT_wRCqXbjGcfrN69v-18" edge="1" parent="nJoT_wRCqXbjGcfrN69v-22" source="nJoT_wRCqXbjGcfrN69v-11" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.377;exitY=0.019;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=22;align=center;fontFamily=Helvetica;" target="nJoT_wRCqXbjGcfrN69v-7" value="">
+        <mxCell id="nJoT_wRCqXbjGcfrN69v-18" edge="1" parent="nJoT_wRCqXbjGcfrN69v-22" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=22;align=center;fontFamily=Helvetica;" target="nJoT_wRCqXbjGcfrN69v-7" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
-            <mxPoint x="1132.2580645161293" y="337.0527859237537" as="sourcePoint" />
+            <mxPoint x="1120" y="335" as="sourcePoint" />
             <mxPoint x="1132.2580645161293" y="145.2492668621701" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nJoT_wRCqXbjGcfrN69v-19" edge="1" parent="nJoT_wRCqXbjGcfrN69v-22" source="nJoT_wRCqXbjGcfrN69v-11" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.63;exitY=0.019;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;fontSize=22;align=center;fontFamily=Helvetica;" target="nJoT_wRCqXbjGcfrN69v-8" value="">
+        <mxCell id="nJoT_wRCqXbjGcfrN69v-19" edge="1" parent="nJoT_wRCqXbjGcfrN69v-22" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=22;align=center;fontFamily=Helvetica;" target="nJoT_wRCqXbjGcfrN69v-8" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
-            <mxPoint x="1333.5483870967741" y="333.3284457478006" as="sourcePoint" />
+            <mxPoint x="1296" y="335" as="sourcePoint" />
             <mxPoint x="1333.5483870967741" y="145.2492668621701" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -80,6 +80,11 @@
           <mxGeometry height="100" relative="1" width="100" as="geometry">
             <mxPoint x="528.3870967741935" y="392.91788856304987" as="sourcePoint" />
             <mxPoint x="528.3870967741935" y="204.83870967741936" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="urvHHwuHcM8OWGIxenti-1" connectable="0" parent="nJoT_wRCqXbjGcfrN69v-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="CAN" vertex="1">
+          <mxGeometry relative="1" x="-0.0157" y="8" as="geometry">
+            <mxPoint x="1" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nJoT_wRCqXbjGcfrN69v-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=48;" value="Xin1 System" vertex="1">
