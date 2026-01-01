@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nJoT_wRCqXbjGcfrN69v-22" connectable="0" parent="1" style="group;fontFamily=Helvetica;fontSize=22;align=center;" value="" vertex="1">
-          <mxGeometry height="640" width="1560" x="40" y="120" as="geometry" />
+          <mxGeometry height="640" width="1560" x="47" y="265" as="geometry" />
         </mxCell>
         <mxCell id="nJoT_wRCqXbjGcfrN69v-1" parent="nJoT_wRCqXbjGcfrN69v-22" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fontFamily=Helvetica;" value="RH850U2B10_MainCPU" vertex="1">
           <mxGeometry height="297.9472140762463" width="704.5161290322579" y="337.0527859237537" as="geometry" />
@@ -81,6 +81,9 @@
             <mxPoint x="528.3870967741935" y="392.91788856304987" as="sourcePoint" />
             <mxPoint x="528.3870967741935" y="204.83870967741936" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nJoT_wRCqXbjGcfrN69v-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=48;" value="Xin1 System" vertex="1">
+          <mxGeometry height="30" width="340" x="660" y="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
