@@ -16,7 +16,7 @@
         <mxCell id="nJoT_wRCqXbjGcfrN69v-4" parent="nJoT_wRCqXbjGcfrN69v-22" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fontFamily=Helvetica;" value="Inv2" vertex="1">
           <mxGeometry height="148.97360703812316" width="150.96774193548384" x="251.61290322580643" as="geometry" />
         </mxCell>
-        <mxCell id="nJoT_wRCqXbjGcfrN69v-5" parent="nJoT_wRCqXbjGcfrN69v-22" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fontFamily=Helvetica;" value="Vehicle(eVCU) Interfaces" vertex="1">
+        <mxCell id="nJoT_wRCqXbjGcfrN69v-5" parent="nJoT_wRCqXbjGcfrN69v-22" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fontFamily=Helvetica;" value="Vehicle Interfaces (eVCU)" vertex="1">
           <mxGeometry height="148.97360703812316" width="150.96774193548384" x="452.90322580645153" as="geometry" />
         </mxCell>
         <mxCell id="nJoT_wRCqXbjGcfrN69v-6" parent="nJoT_wRCqXbjGcfrN69v-22" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;align=center;fontFamily=Helvetica;" value="Aux1(Break)" vertex="1">
