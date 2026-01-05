@@ -495,6 +495,12 @@
         <mxCell id="8dNxMPac3avPNzHF4Tsc-33" parent="FXYeFuNl3OhAtjeP8-v4-1" style="rounded=0;whiteSpace=wrap;html=1;" value="PWM Update the registers accordingly" vertex="1">
           <mxGeometry height="40" width="160" x="840" y="860" as="geometry" />
         </mxCell>
+        <mxCell id="8dNxMPac3avPNzHF4Tsc-34" edge="1" parent="FXYeFuNl3OhAtjeP8-v4-1" source="8dNxMPac3avPNzHF4Tsc-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="563.5" y="820" as="sourcePoint" />
+            <mxPoint x="434" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
