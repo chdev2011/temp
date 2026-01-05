@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9" pages="4">
   <diagram name="Page-1" id="EPtK1bZ9WXzXznaGrniU">
     <mxGraphModel dx="2017" dy="1041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -127,6 +127,40 @@
             <mxPoint x="1320" y="280" as="sourcePoint" />
             <mxPoint x="835.516129032258" y="324.8387096774194" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Startup seq DCDC" id="zUe-rw8gUGyznHKC5yo3">
+    <mxGraphModel dx="2017" dy="1041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="IfMsSbWdCqCBhZqwwiuw-0" />
+        <mxCell id="IfMsSbWdCqCBhZqwwiuw-1" parent="IfMsSbWdCqCBhZqwwiuw-0" />
+        <mxCell id="IfMsSbWdCqCBhZqwwiuw-2" parent="IfMsSbWdCqCBhZqwwiuw-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=1;fontSize=42;" value="DCDC Startup Sequence" vertex="1">
+          <mxGeometry height="120" width="400" x="80" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IfMsSbWdCqCBhZqwwiuw-3" parent="IfMsSbWdCqCBhZqwwiuw-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=1;fontSize=42;" value="ISR Task" vertex="1">
+          <mxGeometry height="120" width="270" x="40" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="IfMsSbWdCqCBhZqwwiuw-4" parent="IfMsSbWdCqCBhZqwwiuw-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=1;fontSize=42;" value="Timer Task" vertex="1">
+          <mxGeometry height="120" width="270" x="50" y="2400" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MZT_S_Gw8WR10hohxW7I" name="DCDC Seq">
+    <mxGraphModel dx="2017" dy="1041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Dahu2v7YbKL2BjngYnp7-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=1;fontSize=42;" value="Main Task" vertex="1">
+          <mxGeometry height="120" width="270" x="60" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dahu2v7YbKL2BjngYnp7-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=1;fontSize=42;" value="ISR Task" vertex="1">
+          <mxGeometry height="120" width="270" x="40" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="Dahu2v7YbKL2BjngYnp7-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=1;fontSize=42;" value="Timer Task" vertex="1">
+          <mxGeometry height="120" width="270" x="50" y="2400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
