@@ -263,7 +263,7 @@
         <mxCell id="wJSi6WWBkt4K4urLhMII-8" parent="wJSi6WWBkt4K4urLhMII-6" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};horizontal=0;" value="" vertex="1">
           <mxGeometry height="190" width="10" x="55" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="wJSi6WWBkt4K4urLhMII-11" parent="FXYeFuNl3OhAtjeP8-v4-1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="PWM Hdl" vertex="1">
+        <mxCell id="wJSi6WWBkt4K4urLhMII-11" parent="FXYeFuNl3OhAtjeP8-v4-1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="PWM Update" vertex="1">
           <mxGeometry height="300" width="120" x="692.5400000000001" y="1760" as="geometry" />
         </mxCell>
         <mxCell id="wJSi6WWBkt4K4urLhMII-19" parent="wJSi6WWBkt4K4urLhMII-11" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
