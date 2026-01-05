@@ -392,7 +392,7 @@
             <mxPoint x="538" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8dNxMPac3avPNzHF4Tsc-7" connectable="0" parent="8dNxMPac3avPNzHF4Tsc-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Read ADC()" vertex="1">
+        <mxCell id="8dNxMPac3avPNzHF4Tsc-7" connectable="0" parent="8dNxMPac3avPNzHF4Tsc-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="App_ReadADC()" vertex="1">
           <mxGeometry relative="1" x="-0.0866" y="1" as="geometry">
             <mxPoint y="14" as="offset" />
           </mxGeometry>
@@ -402,6 +402,35 @@
         </mxCell>
         <mxCell id="8dNxMPac3avPNzHF4Tsc-11" parent="8dNxMPac3avPNzHF4Tsc-10" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#a0522d;fillStyle=solid;fontColor=#ffffff;strokeColor=#6D1F00;" value="" vertex="1">
           <mxGeometry height="330" width="5" x="57" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8dNxMPac3avPNzHF4Tsc-12" edge="1" parent="FXYeFuNl3OhAtjeP8-v4-1" source="8dNxMPac3avPNzHF4Tsc-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" target="8dNxMPac3avPNzHF4Tsc-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="345" as="sourcePoint" />
+            <mxPoint x="767" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8dNxMPac3avPNzHF4Tsc-13" connectable="0" parent="8dNxMPac3avPNzHF4Tsc-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="BSw_ADCUpdate()" vertex="1">
+          <mxGeometry relative="1" x="-0.0866" y="1" as="geometry">
+            <mxPoint y="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8dNxMPac3avPNzHF4Tsc-14" parent="FXYeFuNl3OhAtjeP8-v4-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Read ADC from Register and update&amp;nbsp;" vertex="1">
+          <mxGeometry height="70" width="73" x="663.5" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="8dNxMPac3avPNzHF4Tsc-15" edge="1" parent="FXYeFuNl3OhAtjeP8-v4-1" source="8dNxMPac3avPNzHF4Tsc-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="8dNxMPac3avPNzHF4Tsc-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="520" as="sourcePoint" />
+            <mxPoint x="905" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8dNxMPac3avPNzHF4Tsc-18" parent="FXYeFuNl3OhAtjeP8-v4-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Convert ADC to Physical Value" vertex="1">
+          <mxGeometry height="70" width="73" x="503.5" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="8dNxMPac3avPNzHF4Tsc-19" edge="1" parent="FXYeFuNl3OhAtjeP8-v4-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="600" as="sourcePoint" />
+            <mxPoint x="380" y="600" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
