@@ -197,7 +197,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Sequence_Diagram" id="flMlU_9UO6tvpNuWzusJ">
-    <mxGraphModel dx="2017" dy="1041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1661" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="FXYeFuNl3OhAtjeP8-v4-0" />
         <mxCell id="FXYeFuNl3OhAtjeP8-v4-1" parent="FXYeFuNl3OhAtjeP8-v4-0" />
@@ -415,7 +415,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8dNxMPac3avPNzHF4Tsc-14" parent="FXYeFuNl3OhAtjeP8-v4-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Read ADC from Register and update&amp;nbsp;" vertex="1">
-          <mxGeometry height="40" width="116.5" x="901.75" y="390" as="geometry" />
+          <mxGeometry height="40" width="116.5" x="710" y="380" as="geometry" />
         </mxCell>
         <mxCell id="8dNxMPac3avPNzHF4Tsc-15" edge="1" parent="FXYeFuNl3OhAtjeP8-v4-1" source="8dNxMPac3avPNzHF4Tsc-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
@@ -449,16 +449,16 @@
         <mxCell id="8dNxMPac3avPNzHF4Tsc-23" parent="FXYeFuNl3OhAtjeP8-v4-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Read reference and control Phase shift&amp;nbsp;" vertex="1">
           <mxGeometry height="40" width="160" x="510" y="762" as="geometry" />
         </mxCell>
-        <mxCell id="8dNxMPac3avPNzHF4Tsc-24" edge="1" parent="FXYeFuNl3OhAtjeP8-v4-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+        <mxCell id="8dNxMPac3avPNzHF4Tsc-24" edge="1" parent="FXYeFuNl3OhAtjeP8-v4-1" source="8dNxMPac3avPNzHF4Tsc-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="822" as="sourcePoint" />
-            <mxPoint x="430" y="822" as="targetPoint" />
+            <mxPoint x="590" y="930" as="sourcePoint" />
+            <mxPoint x="430" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8dNxMPac3avPNzHF4Tsc-25" edge="1" parent="FXYeFuNl3OhAtjeP8-v4-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;">
+        <mxCell id="8dNxMPac3avPNzHF4Tsc-25" edge="1" parent="FXYeFuNl3OhAtjeP8-v4-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="882" as="sourcePoint" />
-            <mxPoint x="585" y="882" as="targetPoint" />
+            <mxPoint x="430" y="842" as="sourcePoint" />
+            <mxPoint x="919.5" y="842" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8dNxMPac3avPNzHF4Tsc-26" connectable="0" parent="8dNxMPac3avPNzHF4Tsc-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Update PWM" vertex="1">
@@ -466,7 +466,7 @@
             <mxPoint y="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8dNxMPac3avPNzHF4Tsc-27" parent="FXYeFuNl3OhAtjeP8-v4-1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#000000,#D28F70);fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#6D1F00, #d28f70);" value="ADC_Update" vertex="1">
+        <mxCell id="8dNxMPac3avPNzHF4Tsc-27" parent="FXYeFuNl3OhAtjeP8-v4-1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=light-dark(#000000,#D28F70);fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#6D1F00, #d28f70);" value="PWM_Update" vertex="1">
           <mxGeometry height="800" width="120" x="860" y="200" as="geometry" />
         </mxCell>
         <mxCell id="8dNxMPac3avPNzHF4Tsc-28" parent="8dNxMPac3avPNzHF4Tsc-27" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#a0522d;fillStyle=solid;fontColor=#ffffff;strokeColor=#6D1F00;" value="" vertex="1">
@@ -491,6 +491,9 @@
             <mxPoint x="590" y="700" as="sourcePoint" />
             <mxPoint x="430" y="700" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8dNxMPac3avPNzHF4Tsc-33" parent="FXYeFuNl3OhAtjeP8-v4-1" style="rounded=0;whiteSpace=wrap;html=1;" value="PWM Update the registers accordingly" vertex="1">
+          <mxGeometry height="40" width="160" x="840" y="860" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
