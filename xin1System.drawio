@@ -811,7 +811,7 @@
             <mxPoint x="998" y="3260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rVhWT6CCkT5sbEJkCV0--69" connectable="0" parent="rVhWT6CCkT5sbEJkCV0--68" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" value="app_io_read()" vertex="1">
+        <mxCell id="rVhWT6CCkT5sbEJkCV0--69" connectable="0" parent="rVhWT6CCkT5sbEJkCV0--68" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" value="io_read()" vertex="1">
           <mxGeometry relative="1" x="-0.0198" as="geometry">
             <mxPoint x="304" y="15" as="offset" />
           </mxGeometry>
