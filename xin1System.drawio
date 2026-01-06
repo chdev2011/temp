@@ -167,7 +167,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MZT_S_Gw8WR10hohxW7I" name="Seq diag">
-    <mxGraphModel dx="856" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1486" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -618,7 +618,7 @@
         <mxCell id="rVhWT6CCkT5sbEJkCV0--22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;" value="ADC Channels Initialization. EOC interrupt, SOC Trigger" vertex="1">
           <mxGeometry height="60" width="130" x="476.46" y="2730" as="geometry" />
         </mxCell>
-        <mxCell id="rVhWT6CCkT5sbEJkCV0--23" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" target="e9zkwtbfILtq04p5h9c9-167" value="">
+        <mxCell id="rVhWT6CCkT5sbEJkCV0--23" edge="1" parent="1" source="e9zkwtbfILtq04p5h9c9-140" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;exitX=0.365;exitY=0.349;exitDx=0;exitDy=0;exitPerimeter=0;" target="e9zkwtbfILtq04p5h9c9-167" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="98.53236842105275" y="2841" as="sourcePoint" />
             <mxPoint x="710" y="2828" as="targetPoint" />
