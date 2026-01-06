@@ -534,7 +534,7 @@
           <mxGeometry height="800" width="120" x="190" y="2523" as="geometry" />
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-144" parent="e9zkwtbfILtq04p5h9c9-143" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="50" width="5" x="57.5" y="520" as="geometry" />
+          <mxGeometry height="50" width="5" x="57.5" y="593" as="geometry" />
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-148" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#fff2cc;strokeColor=#d6b656;" value="IO Block" vertex="1">
           <mxGeometry height="800" width="120" x="960" y="2523" as="geometry" />
@@ -629,10 +629,10 @@
             <mxPoint x="224" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rVhWT6CCkT5sbEJkCV0--25" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;" target="e9zkwtbfILtq04p5h9c9-139" value="">
+        <mxCell id="rVhWT6CCkT5sbEJkCV0--25" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="703.5400000000001" y="3030" as="sourcePoint" />
-            <mxPoint x="263.62" y="3030" as="targetPoint" />
+            <mxPoint x="699.5" y="3039" as="sourcePoint" />
+            <mxPoint x="98.53236842105275" y="3039" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rVhWT6CCkT5sbEJkCV0--26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;" value="Configure PWM, Channels, Clock, Frequency, Duty, Deadtime, Phase shift, ADC trigger, Complimentary" vertex="1">
