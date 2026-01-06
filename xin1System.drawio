@@ -167,7 +167,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MZT_S_Gw8WR10hohxW7I" name="DCDC Seq">
-    <mxGraphModel dx="1046" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1486" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -195,7 +195,7 @@
             <mxPoint x="855" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e9zkwtbfILtq04p5h9c9-7" connectable="0" parent="e9zkwtbfILtq04p5h9c9-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ADC EOC" vertex="1">
+        <mxCell id="e9zkwtbfILtq04p5h9c9-7" connectable="0" parent="e9zkwtbfILtq04p5h9c9-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ADC EOC()" vertex="1">
           <mxGeometry relative="1" x="-0.0866" y="1" as="geometry">
             <mxPoint y="14" as="offset" />
           </mxGeometry>
