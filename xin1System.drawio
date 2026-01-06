@@ -360,9 +360,9 @@
         <mxCell id="e9zkwtbfILtq04p5h9c9-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Convert ADC to Physical Value" vertex="1">
           <mxGeometry height="40" width="160" x="570" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="e9zkwtbfILtq04p5h9c9-60" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+        <mxCell id="e9zkwtbfILtq04p5h9c9-60" edge="1" parent="1" source="e9zkwtbfILtq04p5h9c9-50" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="540" as="sourcePoint" />
+            <mxPoint x="630" y="540" as="sourcePoint" />
             <mxPoint x="490" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -403,10 +403,10 @@
         <mxCell id="e9zkwtbfILtq04p5h9c9-68" parent="e9zkwtbfILtq04p5h9c9-67" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;fillStyle=solid;strokeColor=#6c8ebf;" value="" vertex="1">
           <mxGeometry height="620" width="5" x="57" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="e9zkwtbfILtq04p5h9c9-69" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;">
+        <mxCell id="e9zkwtbfILtq04p5h9c9-69" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="599.5" as="sourcePoint" />
-            <mxPoint x="645" y="599.5" as="targetPoint" />
+            <mxPoint x="640" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-70" connectable="0" parent="e9zkwtbfILtq04p5h9c9-69" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Fault_Check()" vertex="1">
