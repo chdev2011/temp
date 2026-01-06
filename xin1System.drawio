@@ -167,7 +167,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MZT_S_Gw8WR10hohxW7I" name="Seq diag">
-    <mxGraphModel dx="1228" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1486" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -596,6 +596,23 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="399.83" y="2720" as="sourcePoint" />
             <mxPoint x="100.16500000000003" y="2720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rVhWT6CCkT5sbEJkCV0--19" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="e9zkwtbfILtq04p5h9c9-153" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="100.91499999999998" y="2770" as="sourcePoint" />
+            <mxPoint x="397.85499999999996" y="2770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rVhWT6CCkT5sbEJkCV0--20" connectable="0" parent="rVhWT6CCkT5sbEJkCV0--19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" value="ADC_Init()" vertex="1">
+          <mxGeometry relative="1" x="-0.1064" y="-4" as="geometry">
+            <mxPoint x="184" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rVhWT6CCkT5sbEJkCV0--21" edge="1" parent="1" source="e9zkwtbfILtq04p5h9c9-152" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="399.9149999999999" y="2890" as="sourcePoint" />
+            <mxPoint x="100.08" y="2890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
