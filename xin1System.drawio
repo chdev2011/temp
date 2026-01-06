@@ -131,12 +131,12 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Startup seq Xin1" id="zUe-rw8gUGyznHKC5yo3">
-    <mxGraphModel dx="2353" dy="1215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+  <diagram name="Operating seq Xin1" id="zUe-rw8gUGyznHKC5yo3">
+    <mxGraphModel dx="2353" dy="1215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="IfMsSbWdCqCBhZqwwiuw-0" />
         <mxCell id="IfMsSbWdCqCBhZqwwiuw-1" parent="IfMsSbWdCqCBhZqwwiuw-0" />
-        <mxCell id="IfMsSbWdCqCBhZqwwiuw-2" parent="IfMsSbWdCqCBhZqwwiuw-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=1;fontSize=42;labelBorderColor=none;" value="Xin1 Startup Sequence" vertex="1">
+        <mxCell id="IfMsSbWdCqCBhZqwwiuw-2" parent="IfMsSbWdCqCBhZqwwiuw-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=1;fontSize=42;labelBorderColor=none;" value="Xin1 Operating Sequence" vertex="1">
           <mxGeometry height="120" width="400" as="geometry" />
         </mxCell>
         <mxCell id="VfctG26qco5sl4KwCbFT-0" parent="IfMsSbWdCqCBhZqwwiuw-1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=80;fontSize=24;" value="Vehicle" vertex="1">
