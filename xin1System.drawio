@@ -167,7 +167,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MZT_S_Gw8WR10hohxW7I" name="Seq diag">
-    <mxGraphModel dx="2017" dy="1041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1412" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -308,7 +308,7 @@
         <mxCell id="e9zkwtbfILtq04p5h9c9-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ADC Conversion" vertex="1">
           <mxGeometry height="30" width="73" x="293.5" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="e9zkwtbfILtq04p5h9c9-49" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#fff2cc;strokeColor=#d6b656;" value="IO Block" vertex="1">
+        <mxCell id="e9zkwtbfILtq04p5h9c9-49" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#fff2cc;strokeColor=#d6b656;" value="Application" vertex="1">
           <mxGeometry height="800" width="120" x="580" y="200" as="geometry" />
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-50" parent="e9zkwtbfILtq04p5h9c9-49" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#fff2cc;fillStyle=solid;strokeColor=#d6b656;" value="" vertex="1">
@@ -411,7 +411,7 @@
             <mxPoint y="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e9zkwtbfILtq04p5h9c9-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Convert ADC to Physical Value" vertex="1">
+        <mxCell id="e9zkwtbfILtq04p5h9c9-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Check for Fault" vertex="1">
           <mxGeometry height="40" width="160" x="574.04" y="640" as="geometry" />
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-72" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;">
