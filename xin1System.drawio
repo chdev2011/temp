@@ -167,7 +167,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MZT_S_Gw8WR10hohxW7I" name="Seq diag">
-    <mxGraphModel dx="1486" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -537,7 +537,7 @@
           <mxGeometry height="50" width="5" x="57.5" y="77" as="geometry" />
         </mxCell>
         <mxCell id="rVhWT6CCkT5sbEJkCV0--42" parent="e9zkwtbfILtq04p5h9c9-143" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="371" width="5" x="57.5" y="649" as="geometry" />
+          <mxGeometry height="350" width="5" x="57.5" y="670" as="geometry" />
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-148" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#fff2cc;strokeColor=#d6b656;" value="IO Block" vertex="1">
           <mxGeometry height="1039" width="120" x="960" y="2441" as="geometry" />
@@ -687,6 +687,9 @@
         <mxCell id="rVhWT6CCkT5sbEJkCV0--36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Application" vertex="1">
           <mxGeometry height="40" width="120" x="1450" y="1390" as="geometry" />
         </mxCell>
+        <mxCell id="rVhWT6CCkT5sbEJkCV0--43" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" value="10ms_scheduler" vertex="1">
+          <mxGeometry height="400" width="240" x="70" y="3070" as="geometry" />
+        </mxCell>
         <mxCell id="rVhWT6CCkT5sbEJkCV0--40" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="60" width="70" x="1550" y="2340" as="geometry" />
         </mxCell>
@@ -699,8 +702,16 @@
         <mxCell id="rVhWT6CCkT5sbEJkCV0--39" parent="rVhWT6CCkT5sbEJkCV0--40" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Application" vertex="1">
           <mxGeometry height="20" width="70" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="rVhWT6CCkT5sbEJkCV0--43" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" value="10ms_scheduler" vertex="1">
-          <mxGeometry height="400" width="240" x="70" y="3070" as="geometry" />
+        <mxCell id="rVhWT6CCkT5sbEJkCV0--44" edge="1" parent="1" source="e9zkwtbfILtq04p5h9c9-140" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" target="rVhWT6CCkT5sbEJkCV0--42" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="110" y="3150.0400000000004" as="sourcePoint" />
+            <mxPoint x="708.4671500000002" y="3150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rVhWT6CCkT5sbEJkCV0--45" connectable="0" parent="rVhWT6CCkT5sbEJkCV0--44" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" value="PWM_Init()" vertex="1">
+          <mxGeometry relative="1" x="-0.1064" y="-4" as="geometry">
+            <mxPoint x="224" y="6" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
