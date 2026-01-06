@@ -167,7 +167,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MZT_S_Gw8WR10hohxW7I" name="Seq diag">
-    <mxGraphModel dx="1009" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1228" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -357,7 +357,7 @@
         <mxCell id="e9zkwtbfILtq04p5h9c9-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Convert ADC to Physical Value" vertex="1">
           <mxGeometry height="40" width="160" x="570" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="e9zkwtbfILtq04p5h9c9-60" edge="1" parent="1" source="e9zkwtbfILtq04p5h9c9-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+        <mxCell id="e9zkwtbfILtq04p5h9c9-60" edge="1" parent="1" source="e9zkwtbfILtq04p5h9c9-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="639.5" y="540.0000000000002" as="sourcePoint" />
             <mxPoint x="492" y="540.0000000000002" as="targetPoint" />
@@ -377,7 +377,7 @@
         <mxCell id="e9zkwtbfILtq04p5h9c9-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Read reference and control Phase shift&amp;nbsp;" vertex="1">
           <mxGeometry height="40" width="160" x="570" y="762" as="geometry" />
         </mxCell>
-        <mxCell id="e9zkwtbfILtq04p5h9c9-64" edge="1" parent="1" source="e9zkwtbfILtq04p5h9c9-67" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+        <mxCell id="e9zkwtbfILtq04p5h9c9-64" edge="1" parent="1" source="e9zkwtbfILtq04p5h9c9-67" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="650" y="930" as="sourcePoint" />
             <mxPoint x="490" y="930" as="targetPoint" />
@@ -414,7 +414,7 @@
         <mxCell id="e9zkwtbfILtq04p5h9c9-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Convert ADC to Physical Value" vertex="1">
           <mxGeometry height="40" width="160" x="574.04" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="e9zkwtbfILtq04p5h9c9-72" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+        <mxCell id="e9zkwtbfILtq04p5h9c9-72" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="700" as="sourcePoint" />
             <mxPoint x="490" y="700" as="targetPoint" />
@@ -423,19 +423,19 @@
         <mxCell id="e9zkwtbfILtq04p5h9c9-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PWM Update the registers accordingly" vertex="1">
           <mxGeometry height="40" width="160" x="900" y="860" as="geometry" />
         </mxCell>
-        <mxCell id="e9zkwtbfILtq04p5h9c9-74" edge="1" parent="1" source="e9zkwtbfILtq04p5h9c9-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+        <mxCell id="e9zkwtbfILtq04p5h9c9-74" edge="1" parent="1" source="e9zkwtbfILtq04p5h9c9-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="623.5" y="820" as="sourcePoint" />
             <mxPoint x="490" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e9zkwtbfILtq04p5h9c9-75" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="e9zkwtbfILtq04p5h9c9-9">
+        <mxCell id="e9zkwtbfILtq04p5h9c9-75" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="e9zkwtbfILtq04p5h9c9-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="930" as="sourcePoint" />
             <mxPoint x="340" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e9zkwtbfILtq04p5h9c9-76" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+        <mxCell id="e9zkwtbfILtq04p5h9c9-76" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="930" as="sourcePoint" />
             <mxPoint x="180" y="930" as="targetPoint" />
