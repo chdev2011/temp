@@ -167,15 +167,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MZT_S_Gw8WR10hohxW7I" name="DCDC Seq">
-    <mxGraphModel dx="1177" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2172" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Dahu2v7YbKL2BjngYnp7-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=1;fontSize=32;" value="PWM ISR Task" vertex="1">
           <mxGeometry height="120" width="270" x="60" y="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Dahu2v7YbKL2BjngYnp7-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=1;fontSize=42;" value="ISR Task" vertex="1">
-          <mxGeometry height="120" width="270" x="40" y="1200" as="geometry" />
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-1" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=32;fontFamily=Verdana;" value="Sequence Diagram" vertex="1">
           <mxGeometry height="30" width="440" x="607.46" y="20" as="geometry" />
@@ -225,22 +222,22 @@
           <mxGeometry height="30" width="440" x="600" y="80" as="geometry" />
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-13" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fontStyle=0;fontSize=20;fontFamily=Verdana;" value="Hw GPIO Fault ISR" vertex="1">
-          <mxGeometry height="30" width="440" x="607.46" y="1840" as="geometry" />
+          <mxGeometry height="30" width="440" x="543.09" y="1290" as="geometry" />
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-14" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="GPIO ISR" vertex="1">
-          <mxGeometry height="300" width="118.17" x="604.37" y="1910" as="geometry" />
+          <mxGeometry height="300" width="118.17" x="540" y="1360" as="geometry" />
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-15" parent="e9zkwtbfILtq04p5h9c9-14" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="190" width="10" x="54.09" y="80" as="geometry" />
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-16" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="ISR" vertex="1">
-          <mxGeometry height="300" width="120" x="794.0400000000001" y="1910" as="geometry" />
+          <mxGeometry height="300" width="120" x="729.6700000000001" y="1360" as="geometry" />
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-17" parent="e9zkwtbfILtq04p5h9c9-16" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};horizontal=0;" value="" vertex="1">
           <mxGeometry height="190" width="10" x="55" y="80" as="geometry" />
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-18" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="PWM Update" vertex="1">
-          <mxGeometry height="300" width="120" x="952.54" y="1910" as="geometry" />
+          <mxGeometry height="300" width="120" x="888.17" y="1360" as="geometry" />
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-19" parent="e9zkwtbfILtq04p5h9c9-18" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="100" width="10" x="55" y="170" as="geometry" />
@@ -248,8 +245,8 @@
         <mxCell id="e9zkwtbfILtq04p5h9c9-20" edge="1" parent="1" source="e9zkwtbfILtq04p5h9c9-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" target="e9zkwtbfILtq04p5h9c9-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="672.54" y="2075" as="sourcePoint" />
-            <mxPoint x="822.5400000000001" y="2075" as="targetPoint" />
+            <mxPoint x="608.17" y="1525" as="sourcePoint" />
+            <mxPoint x="758.1700000000001" y="1525" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-21" connectable="0" parent="e9zkwtbfILtq04p5h9c9-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Fault_trigger" vertex="1">
@@ -259,7 +256,7 @@
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-22" edge="1" parent="1" source="e9zkwtbfILtq04p5h9c9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" target="e9zkwtbfILtq04p5h9c9-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="897.46" y="2100" as="sourcePoint" />
+            <mxPoint x="833.09" y="1550" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-23" connectable="0" parent="e9zkwtbfILtq04p5h9c9-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" value="Disable PWM" vertex="1">
@@ -269,29 +266,29 @@
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-24" edge="1" parent="1" source="e9zkwtbfILtq04p5h9c9-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" target="e9zkwtbfILtq04p5h9c9-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="902.5400000000001" y="2070" as="sourcePoint" />
-            <mxPoint x="1040.54" y="2070" as="targetPoint" />
+            <mxPoint x="838.1700000000001" y="1520" as="sourcePoint" />
+            <mxPoint x="976.17" y="1520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-25" edge="1" parent="1" source="e9zkwtbfILtq04p5h9c9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" target="e9zkwtbfILtq04p5h9c9-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="831.5400000000001" y="2170" as="sourcePoint" />
-            <mxPoint x="693.54" y="2170" as="targetPoint" />
+            <mxPoint x="767.1700000000001" y="1620" as="sourcePoint" />
+            <mxPoint x="629.17" y="1620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-26" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Reset Fault Flag&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="120.92" x="793.58" y="2010" as="geometry" />
+          <mxGeometry height="60" width="120.92" x="729.21" y="1460" as="geometry" />
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-27" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;State Machine&lt;/span&gt;" vertex="1">
-          <mxGeometry height="360" width="118.17" x="1100" y="1910" as="geometry" />
+          <mxGeometry height="360" width="118.17" x="1035.63" y="1360" as="geometry" />
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-28" parent="e9zkwtbfILtq04p5h9c9-27" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="280" width="10" x="54.09" y="80" as="geometry" />
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-29" edge="1" parent="1" source="e9zkwtbfILtq04p5h9c9-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="865.01" y="2130" as="sourcePoint" />
-            <mxPoint x="1160.0600000000002" y="2130" as="targetPoint" />
+            <mxPoint x="800.64" y="1580" as="sourcePoint" />
+            <mxPoint x="1095.69" y="1580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-30" connectable="0" parent="e9zkwtbfILtq04p5h9c9-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#000000,#FFFFFF);labelBackgroundColor=none;" value="HwFault" vertex="1">
@@ -511,6 +508,9 @@
           <mxGeometry relative="1" x="-0.1723" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="e9zkwtbfILtq04p5h9c9-101" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=1;fontSize=32;" value="Fault ISR Task" vertex="1">
+          <mxGeometry height="120" width="270" x="40" y="1200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
