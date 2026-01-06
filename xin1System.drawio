@@ -167,7 +167,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MZT_S_Gw8WR10hohxW7I" name="Seq diag">
-    <mxGraphModel dx="1569" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2172" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -814,6 +814,26 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="998" y="3243" as="sourcePoint" />
             <mxPoint x="249.38888888888914" y="3238" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rVhWT6CCkT5sbEJkCV0--72" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#fff2cc;fillStyle=solid;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="40" width="5" x="1156.001111111111" y="3256" as="geometry" />
+        </mxCell>
+        <mxCell id="rVhWT6CCkT5sbEJkCV0--73" edge="1" parent="1" source="e9zkwtbfILtq04p5h9c9-143" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" target="rVhWT6CCkT5sbEJkCV0--72" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="266.8900000000001" y="3295" as="sourcePoint" />
+            <mxPoint x="1015.501111111111" y="3300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rVhWT6CCkT5sbEJkCV0--74" connectable="0" parent="rVhWT6CCkT5sbEJkCV0--73" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" value="io_read()" vertex="1">
+          <mxGeometry relative="1" x="-0.0198" as="geometry">
+            <mxPoint x="304" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rVhWT6CCkT5sbEJkCV0--75" edge="1" parent="1" source="rVhWT6CCkT5sbEJkCV0--72" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" target="e9zkwtbfILtq04p5h9c9-143" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1015.501111111111" y="3330" as="sourcePoint" />
+            <mxPoint x="266.8900000000001" y="3325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
