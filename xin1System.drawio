@@ -197,7 +197,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MZT_S_Gw8WR10hohxW7I" name="Seq diag">
-    <mxGraphModel dx="2339" dy="2210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2728" dy="2384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -898,28 +898,28 @@
           <mxGeometry height="40" width="580" y="-1160" as="geometry" />
         </mxCell>
         <mxCell id="loqH5lLFvNvV2efm7gVN-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=80;fontSize=24;" value="Vehicle" vertex="1">
-          <mxGeometry height="960" width="160" x="40" y="-1000" as="geometry" />
+          <mxGeometry height="960" width="160" x="40" y="-1080" as="geometry" />
         </mxCell>
         <mxCell id="loqH5lLFvNvV2efm7gVN-3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=80;fontSize=24;" value="eVCU" vertex="1">
-          <mxGeometry height="960" width="160" x="240" y="-1000" as="geometry" />
+          <mxGeometry height="960" width="160" x="240" y="-1080" as="geometry" />
         </mxCell>
         <mxCell id="loqH5lLFvNvV2efm7gVN-4" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=80;fontSize=24;" value="Traction Inv1" vertex="1">
-          <mxGeometry height="960" width="160" x="440" y="-1000" as="geometry" />
+          <mxGeometry height="960" width="160" x="440" y="-1080" as="geometry" />
         </mxCell>
         <mxCell id="loqH5lLFvNvV2efm7gVN-5" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=80;fontSize=24;" value="Traction Inv2" vertex="1">
-          <mxGeometry height="960" width="160" x="640" y="-1000" as="geometry" />
+          <mxGeometry height="960" width="160" x="640" y="-1080" as="geometry" />
         </mxCell>
         <mxCell id="loqH5lLFvNvV2efm7gVN-6" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=80;fontSize=24;" value="Aux1" vertex="1">
-          <mxGeometry height="960" width="160" x="840" y="-1000" as="geometry" />
+          <mxGeometry height="960" width="160" x="840" y="-1080" as="geometry" />
         </mxCell>
         <mxCell id="loqH5lLFvNvV2efm7gVN-7" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=80;fontSize=24;" value="Aux2" vertex="1">
-          <mxGeometry height="960" width="160" x="1040" y="-1000" as="geometry" />
+          <mxGeometry height="960" width="160" x="1040" y="-1080" as="geometry" />
         </mxCell>
         <mxCell id="loqH5lLFvNvV2efm7gVN-8" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=80;fontSize=24;" value="DCDC1" vertex="1">
-          <mxGeometry height="960" width="160" x="1240" y="-1000" as="geometry" />
+          <mxGeometry height="960" width="160" x="1240" y="-1080" as="geometry" />
         </mxCell>
         <mxCell id="loqH5lLFvNvV2efm7gVN-9" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=80;fontSize=24;" value="DCDC2" vertex="1">
-          <mxGeometry height="960" width="160" x="1440" y="-1000" as="geometry" />
+          <mxGeometry height="960" width="160" x="1440" y="-1080" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
