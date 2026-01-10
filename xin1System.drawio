@@ -334,7 +334,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MZT_S_Gw8WR10hohxW7I" name="Seq diag">
-    <mxGraphModel dx="854" dy="1517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1577" dy="1811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1377,6 +1377,18 @@
         </mxCell>
         <mxCell id="HRUXZvIfgdLjBG_WjhRX-25" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;" value="" vertex="1">
           <mxGeometry height="25.79" width="81.25" x="616" y="932" as="geometry" />
+        </mxCell>
+        <mxCell id="HRUXZvIfgdLjBG_WjhRX-26" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#fff2cc;strokeColor=#d6b656;" value="Fault Block" vertex="1">
+          <mxGeometry height="800" width="120" x="640" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HRUXZvIfgdLjBG_WjhRX-27" parent="HRUXZvIfgdLjBG_WjhRX-26" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#fff2cc;fillStyle=solid;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="620" width="5" x="57" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="HRUXZvIfgdLjBG_WjhRX-28" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#fff2cc;strokeColor=#d6b656;" value="Control" vertex="1">
+          <mxGeometry height="800" width="120" x="799.17" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HRUXZvIfgdLjBG_WjhRX-29" parent="HRUXZvIfgdLjBG_WjhRX-28" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#fff2cc;fillStyle=solid;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="620" width="5" x="57" y="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
