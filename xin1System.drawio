@@ -487,7 +487,7 @@
           <mxGeometry height="800" width="120" x="1320" y="120" as="geometry" />
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-54" parent="e9zkwtbfILtq04p5h9c9-53" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;fillStyle=solid;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="120" width="5" x="57" y="160" as="geometry" />
+          <mxGeometry height="80" width="5" x="57" y="160" as="geometry" />
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-55" edge="1" parent="1" source="e9zkwtbfILtq04p5h9c9-50" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;" target="e9zkwtbfILtq04p5h9c9-54">
           <mxGeometry relative="1" as="geometry">
@@ -502,15 +502,6 @@
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Read ADC from Register and update&amp;nbsp;" vertex="1">
           <mxGeometry height="40" width="116.5" x="1330" y="300" as="geometry" />
-        </mxCell>
-        <mxCell id="e9zkwtbfILtq04p5h9c9-58" edge="1" parent="1" source="e9zkwtbfILtq04p5h9c9-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="e9zkwtbfILtq04p5h9c9-50">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="650.6799999999998" y="370" />
-            </Array>
-            <mxPoint x="730.1799999999994" y="370" as="sourcePoint" />
-            <mxPoint x="570.0035294117644" y="370" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Convert ADC to Physical Value" vertex="1">
           <mxGeometry height="40" width="160" x="480" y="380" as="geometry" />
@@ -1398,6 +1389,9 @@
             <mxPoint x="561.22" y="601" as="sourcePoint" />
             <mxPoint x="412" y="597" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HRUXZvIfgdLjBG_WjhRX-34" edge="1" parent="1" source="e9zkwtbfILtq04p5h9c9-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;dashed=1;" target="e9zkwtbfILtq04p5h9c9-49">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
