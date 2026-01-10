@@ -334,7 +334,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MZT_S_Gw8WR10hohxW7I" name="Seq diag">
-    <mxGraphModel dx="244" dy="1271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1055" dy="1608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -538,7 +538,7 @@
             <mxPoint y="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e9zkwtbfILtq04p5h9c9-72" edge="1" parent="1" source="HRUXZvIfgdLjBG_WjhRX-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;">
+        <mxCell id="e9zkwtbfILtq04p5h9c9-72" edge="1" parent="1" source="HRUXZvIfgdLjBG_WjhRX-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" target="e9zkwtbfILtq04p5h9c9-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="546" as="sourcePoint" />
             <mxPoint x="412" y="515.9999999999995" as="targetPoint" />
@@ -1382,7 +1382,7 @@
         <mxCell id="HRUXZvIfgdLjBG_WjhRX-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Calculate PWM Parameter" vertex="1">
           <mxGeometry height="40" width="160" x="940" y="622" as="geometry" />
         </mxCell>
-        <mxCell id="e9zkwtbfILtq04p5h9c9-61" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" target="HRUXZvIfgdLjBG_WjhRX-29">
+        <mxCell id="e9zkwtbfILtq04p5h9c9-61" edge="1" parent="1" source="e9zkwtbfILtq04p5h9c9-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" target="HRUXZvIfgdLjBG_WjhRX-29">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="412" y="527" as="sourcePoint" />
             <mxPoint x="860.3900000000001" y="521" as="targetPoint" />
@@ -1393,7 +1393,7 @@
             <mxPoint y="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e9zkwtbfILtq04p5h9c9-74" edge="1" parent="1" source="HRUXZvIfgdLjBG_WjhRX-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;">
+        <mxCell id="e9zkwtbfILtq04p5h9c9-74" edge="1" parent="1" source="HRUXZvIfgdLjBG_WjhRX-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" target="e9zkwtbfILtq04p5h9c9-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="561.22" y="601" as="sourcePoint" />
             <mxPoint x="412" y="597" as="targetPoint" />
