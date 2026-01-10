@@ -334,7 +334,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MZT_S_Gw8WR10hohxW7I" name="Seq diag">
-    <mxGraphModel dx="1253" dy="1690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2505" dy="2212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -516,7 +516,7 @@
           <mxGeometry height="800" width="120" x="1480" y="120" as="geometry" />
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-68" parent="e9zkwtbfILtq04p5h9c9-67" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;fillStyle=solid;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="130" width="5" x="57" y="594" as="geometry" />
+          <mxGeometry height="130" width="5" x="57" y="549" as="geometry" />
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-69" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" target="HRUXZvIfgdLjBG_WjhRX-30">
           <mxGeometry relative="1" as="geometry">
@@ -536,7 +536,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PWM Update the registers accordingly" vertex="1">
-          <mxGeometry height="40" width="160" x="1460" y="744" as="geometry" />
+          <mxGeometry height="40" width="160" x="1460" y="700" as="geometry" />
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-75" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="e9zkwtbfILtq04p5h9c9-9">
           <mxGeometry relative="1" as="geometry">
@@ -1358,9 +1358,9 @@
             <mxPoint y="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e9zkwtbfILtq04p5h9c9-64" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;">
+        <mxCell id="e9zkwtbfILtq04p5h9c9-64" edge="1" parent="1" source="e9zkwtbfILtq04p5h9c9-68" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" target="e9zkwtbfILtq04p5h9c9-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1539.5000000000005" y="814" as="sourcePoint" />
+            <mxPoint x="1490" y="820" as="sourcePoint" />
             <mxPoint x="410" y="814" as="targetPoint" />
           </mxGeometry>
         </mxCell>
