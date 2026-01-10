@@ -521,17 +521,6 @@
             <mxPoint x="412" y="460.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e9zkwtbfILtq04p5h9c9-61" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="640" as="sourcePoint" />
-            <mxPoint x="858.6700000000001" y="640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e9zkwtbfILtq04p5h9c9-62" connectable="0" parent="e9zkwtbfILtq04p5h9c9-61" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Control()" vertex="1">
-          <mxGeometry relative="1" x="-0.0866" y="1" as="geometry">
-            <mxPoint y="14" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-64" edge="1" parent="1" source="e9zkwtbfILtq04p5h9c9-67" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="570" y="850" as="sourcePoint" />
@@ -574,12 +563,6 @@
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PWM Update the registers accordingly" vertex="1">
           <mxGeometry height="40" width="160" x="1460" y="780" as="geometry" />
-        </mxCell>
-        <mxCell id="e9zkwtbfILtq04p5h9c9-74" edge="1" parent="1" source="HRUXZvIfgdLjBG_WjhRX-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="559.5" y="720" as="sourcePoint" />
-            <mxPoint x="410" y="720" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-75" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="e9zkwtbfILtq04p5h9c9-9">
           <mxGeometry relative="1" as="geometry">
@@ -1389,6 +1372,23 @@
         </mxCell>
         <mxCell id="e9zkwtbfILtq04p5h9c9-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Read reference and control Phase shift&amp;nbsp;" vertex="1">
           <mxGeometry height="40" width="160" x="779.1700000000001" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="e9zkwtbfILtq04p5h9c9-61" edge="1" parent="1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="640" as="sourcePoint" />
+            <mxPoint x="858.6700000000001" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e9zkwtbfILtq04p5h9c9-62" connectable="0" parent="e9zkwtbfILtq04p5h9c9-61" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Control()" vertex="1">
+          <mxGeometry relative="1" x="-0.0866" y="1" as="geometry">
+            <mxPoint y="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e9zkwtbfILtq04p5h9c9-74" edge="1" parent="1" source="HRUXZvIfgdLjBG_WjhRX-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="559.5" y="720" as="sourcePoint" />
+            <mxPoint x="410" y="720" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
