@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.3.1">
   <diagram name="Page-1" id="86jiA5f_JV46EmItRXrr">
-    <mxGraphModel dx="1942" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="811" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry height="75" width="480" x="600" y="481" as="geometry" />
         </mxCell>
         <mxCell id="czpAoDy0zo0XJJHSUjmd-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="390" width="480" x="80" y="80" as="geometry" />
+          <mxGeometry height="430" width="530" x="60" y="680" as="geometry" />
         </mxCell>
         <mxCell id="czpAoDy0zo0XJJHSUjmd-17" connectable="0" parent="1" style="group;fillColor=#D5E8D4;" value="" vertex="1">
           <mxGeometry height="110" width="180" x="270" y="90" as="geometry" />
@@ -52,14 +52,11 @@
         <mxCell id="czpAoDy0zo0XJJHSUjmd-15" parent="czpAoDy0zo0XJJHSUjmd-19" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1000ms" vertex="1">
           <mxGeometry height="30" width="60" x="10" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Middleware" vertex="1">
-          <mxGeometry height="140" width="460" x="90" y="210" as="geometry" />
+        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="RTE" vertex="1">
+          <mxGeometry height="40" width="510" x="40" y="210" as="geometry" />
         </mxCell>
         <mxCell id="ZkRu1Gb7ZgPL25fcICQ--2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="eVCU" vertex="1">
           <mxGeometry height="30" width="60" x="290" y="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MCL" vertex="1">
-          <mxGeometry height="100" width="460" x="90" y="360" as="geometry" />
         </mxCell>
         <mxCell id="ZkRu1Gb7ZgPL25fcICQ--4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="360" width="480" x="600" y="80" as="geometry" />
@@ -128,19 +125,43 @@
           <mxGeometry height="70" width="70" x="940" y="275" as="geometry" />
         </mxCell>
         <mxCell id="ZkRu1Gb7ZgPL25fcICQ--41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hw Peripheral" vertex="1">
-          <mxGeometry height="75" width="480" x="80" y="481" as="geometry" />
+          <mxGeometry height="75" width="520" x="40" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CAN" vertex="1">
-          <mxGeometry height="70" width="70" x="100" y="370" as="geometry" />
+        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="uC Drivers" vertex="1">
+          <mxGeometry height="70" width="100" x="120" y="435" as="geometry" />
         </mxCell>
-        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PWM" vertex="1">
-          <mxGeometry height="70" width="70" x="190" y="370" as="geometry" />
+        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Memory Drivers" vertex="1">
+          <mxGeometry height="70" width="100" x="230" y="435" as="geometry" />
         </mxCell>
-        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Timer" vertex="1">
-          <mxGeometry height="70" width="70" x="350" y="370" as="geometry" />
+        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Communicatoin Drivers" vertex="1">
+          <mxGeometry height="70" width="100" x="340" y="435" as="geometry" />
         </mxCell>
-        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ADC" vertex="1">
-          <mxGeometry height="70" width="70" x="440" y="370" as="geometry" />
+        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="i/o Drivers" vertex="1">
+          <mxGeometry height="70" width="90" x="450" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Communication Hw Abs" vertex="1">
+          <mxGeometry height="70" width="100" x="340" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MemoryHw Abs" vertex="1">
+          <mxGeometry height="70" width="100" x="230" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Device Abs" vertex="1">
+          <mxGeometry height="70" width="100" x="120" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="i/o Hw Abs" vertex="1">
+          <mxGeometry height="160" width="90" x="450" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Communication Serivices" vertex="1">
+          <mxGeometry height="70" width="100" x="340" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Memory Service" vertex="1">
+          <mxGeometry height="70" width="100" x="230" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sys Service" vertex="1">
+          <mxGeometry height="70" width="180" x="40" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AUTOSAR OS" vertex="1">
+          <mxGeometry height="180" width="60" x="40" y="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
