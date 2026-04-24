@@ -35,7 +35,7 @@
           <mxGeometry height="30" width="49.09090909090909" x="20.451818181818183" y="80" as="geometry" />
         </mxCell>
         <mxCell id="ZkRu1Gb7ZgPL25fcICQ--1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="RTE" vertex="1">
-          <mxGeometry height="40" width="500" x="40" y="210" as="geometry" />
+          <mxGeometry height="40" width="490" x="50" y="210" as="geometry" />
         </mxCell>
         <mxCell id="ZkRu1Gb7ZgPL25fcICQ--2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="eVCU" vertex="1">
           <mxGeometry height="30" width="60" x="290" y="50" as="geometry" />
@@ -137,10 +137,10 @@
           <mxGeometry height="70" width="100" x="230" y="260" as="geometry" />
         </mxCell>
         <mxCell id="ZkRu1Gb7ZgPL25fcICQ--52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sys Service" vertex="1">
-          <mxGeometry height="70" width="180" x="40" y="260" as="geometry" />
+          <mxGeometry height="70" width="170" x="50" y="260" as="geometry" />
         </mxCell>
         <mxCell id="ZkRu1Gb7ZgPL25fcICQ--53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AUTOSAR OS" vertex="1">
-          <mxGeometry height="180" width="60" x="40" y="330" as="geometry" />
+          <mxGeometry height="180" width="60" x="50" y="330" as="geometry" />
         </mxCell>
         <mxCell id="ZkRu1Gb7ZgPL25fcICQ--54" connectable="0" parent="1" style="group;fillColor=#D5E8D4;" value="" vertex="1">
           <mxGeometry height="110" width="180" x="250" y="90" as="geometry" />
