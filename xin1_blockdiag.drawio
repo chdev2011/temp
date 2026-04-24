@@ -94,18 +94,6 @@
         <mxCell id="ZkRu1Gb7ZgPL25fcICQ--7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SwC3" vertex="1">
           <mxGeometry height="70" width="70" x="893" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CAN" vertex="1">
-          <mxGeometry height="70" width="70" x="641" y="275" as="geometry" />
-        </mxCell>
-        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PWM" vertex="1">
-          <mxGeometry height="70" width="70" x="750" y="275" as="geometry" />
-        </mxCell>
-        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Timer" vertex="1">
-          <mxGeometry height="70" width="70" x="847" y="275" as="geometry" />
-        </mxCell>
-        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ADC" vertex="1">
-          <mxGeometry height="70" width="70" x="940" y="275" as="geometry" />
-        </mxCell>
         <mxCell id="ZkRu1Gb7ZgPL25fcICQ--42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="uC Drivers" vertex="1">
           <mxGeometry height="70" width="100" x="120" y="435" as="geometry" />
         </mxCell>
@@ -200,7 +188,7 @@
           <mxGeometry height="70" width="100" x="290" y="885" as="geometry" />
         </mxCell>
         <mxCell id="ZkRu1Gb7ZgPL25fcICQ--75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="i/o Drivers" vertex="1">
-          <mxGeometry height="155" width="90" x="410" y="800" as="geometry" />
+          <mxGeometry height="75" width="90" x="410" y="880" as="geometry" />
         </mxCell>
         <mxCell id="ZkRu1Gb7ZgPL25fcICQ--76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Communication Hw Abs" vertex="1">
           <mxGeometry height="70" width="100" x="290" y="800" as="geometry" />
@@ -228,6 +216,33 @@
         </mxCell>
         <mxCell id="ZkRu1Gb7ZgPL25fcICQ--88" parent="ZkRu1Gb7ZgPL25fcICQ--84" style="rounded=0;whiteSpace=wrap;html=1;" value="SwC4" vertex="1">
           <mxGeometry height="70" width="70" x="100" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="uC Drivers" vertex="1">
+          <mxGeometry height="70" width="100" x="630" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--92" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Memory Drivers" vertex="1">
+          <mxGeometry height="70" width="100" x="740" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--93" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Communicatoin Drivers" vertex="1">
+          <mxGeometry height="70" width="100" x="850" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--94" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="i/o Drivers" vertex="1">
+          <mxGeometry height="70" width="90" x="960" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--95" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Communication Hw Abs" vertex="1">
+          <mxGeometry height="70" width="100" x="850" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MemoryHw Abs" vertex="1">
+          <mxGeometry height="70" width="100" x="740" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--97" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Device Abs" vertex="1">
+          <mxGeometry height="70" width="100" x="630" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--98" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="i/o Hw Abs" vertex="1">
+          <mxGeometry height="75" width="90" x="960" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkRu1Gb7ZgPL25fcICQ--99" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="i/o Hw Abs" vertex="1">
+          <mxGeometry height="75" width="90" x="410" y="797.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
