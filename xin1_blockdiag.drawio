@@ -230,13 +230,13 @@
           <mxGeometry height="70" width="90" x="960" y="320" as="geometry" />
         </mxCell>
         <mxCell id="ZkRu1Gb7ZgPL25fcICQ--95" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Communication Hw Abs" vertex="1">
-          <mxGeometry height="70" width="100" x="850" y="235" as="geometry" />
+          <mxGeometry height="75" width="100" x="850" y="230" as="geometry" />
         </mxCell>
         <mxCell id="ZkRu1Gb7ZgPL25fcICQ--96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MemoryHw Abs" vertex="1">
-          <mxGeometry height="70" width="100" x="740" y="235" as="geometry" />
+          <mxGeometry height="75" width="100" x="740" y="230" as="geometry" />
         </mxCell>
         <mxCell id="ZkRu1Gb7ZgPL25fcICQ--97" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Device Abs" vertex="1">
-          <mxGeometry height="70" width="100" x="630" y="235" as="geometry" />
+          <mxGeometry height="75" width="100" x="630" y="230" as="geometry" />
         </mxCell>
         <mxCell id="ZkRu1Gb7ZgPL25fcICQ--98" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="i/o Hw Abs" vertex="1">
           <mxGeometry height="75" width="90" x="960" y="230" as="geometry" />
